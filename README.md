@@ -16,7 +16,7 @@ TEAM ♥️༎░🇫🅢🅞🅒🅘🅔🅣🅨 ░༎
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > git clone https://github.com/Nugtrix-DT/Fsociety-Bot-V4
-> cd esubot
+> cd Fsociety-Bot-V4
 > npm install
 ```
 ###### Run🏃🏻‍♂️

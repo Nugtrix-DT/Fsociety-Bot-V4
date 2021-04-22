@@ -1,13 +1,13 @@
 <p align="center">
-<img src="https://media.giphy.com/media/sRGUfOYkLt5chUss87/giphy.gif" width="128" height="135"/>
+<img src="https://media.giphy.com/media/PAkrtJgGaygxbXcV9r/giphy.gif" width="128" height="135"/>
 </p>
 
 # Fsociety-Bot-V4
 Simple WhatsApp Bot for Andriod & pc
 
-BOT BY Smu330⃟꙰
+BOT BY Nυɠƚɾιx-DT
 
-TEAM ♥️• ̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬⃟꙰ͧͧͧ⃤⃫✫⃝꯭꯭꯭꯭햮꯭꯭℠₃₃‎̶₀̶• ⃫̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬̬⃟꙰♥️⃝⃫꙰꙰꙰✫
+TEAM ♥️༎░🇫🅢🅞🅒🅘🅔🅣🅨 ░༎
 
 ### FOR TERMUX USER💥
 ```bash

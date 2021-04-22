@@ -3,7 +3,6 @@
 </p>
 
 # Fsociety-Bot-V4
-Simple WhatsApp Bot for Andriod & pc
 
 BOT BY Nυɠƚɾιx-DT
 
